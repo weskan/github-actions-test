@@ -16,4 +16,4 @@ jobs:
       - name: where am I
         run: |
           pwd
-          ll
+          ls -lah 
